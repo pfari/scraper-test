@@ -1,0 +1,16 @@
+{
+  "name": "scraper-test",
+  "version": "1.0.0",
+  "description": "Project to test webscraping",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paolo Farinella",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "yakuza": "^1.0.7"
+  }
+}
